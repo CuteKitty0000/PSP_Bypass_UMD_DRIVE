@@ -6,4 +6,4 @@ Tested on 6.20 PRO-B8.
 
 > Put Bypass UMD.prx in ms0:/seplugins.<br>
 
-Add plugin path to vsh.txt and game.txt.
+> Add plugin path to vsh.txt and game.txt.
